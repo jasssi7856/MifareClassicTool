@@ -117,7 +117,17 @@ Getting Started
 First of all, you need the keys for the tag you want to read.
 Due to some weaknesses in MIFARE Classic, you can retrieve
 all the keys (A and B) of a tag with tools like the
-[Proxmark3](http://www.proxmark.org/) or
+[Proxmark3](http://www.proxmark.org/
+Getting Started
+---------------
+
+First of all, you need the keys for the tag you want to read.
+Due to some weaknesses in MIFARE Classic, you can retrieve
+all the keys (A and B) of a tag with tools like the
+[Proxmark3](http://www.proxmark.org/
+
+
+) or
 normal RFID-Readers and some special software
 ([mfcuk](https://github.com/nfc-tools/mfcuk),
 [mfoc](https://github.com/nfc-tools/mfoc)).
